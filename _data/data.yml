@@ -166,6 +166,21 @@ projects:
             - element-ui 样式无污染覆盖开发（约定式）
             - 前端localStorage带有效期加密存储
 
+      - title: 上交所应用开发
+        link: 24周
+        tagline: |
+          todo
+
+      - title: 上交所门户维护
+        cycle: 24周 
+        tagline: |
+          一个长期维护的项目，接手时是个半成品，之后对内容不断更新维护，并增加了SQL查询器、数据模型管理、权限申请功能模块
+
+          - 实现了一个简易的SQL查询器，展示数据库树结构到column，右键复制(支持checkbox)，直接生成SQL语句的字段
+          - SQL查询器查询历史纪录
+          - SQL语句模块功能（支持变量），正则实现
+          - SQL模板语句分享功能
+
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
