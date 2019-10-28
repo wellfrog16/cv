@@ -2,7 +2,7 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
+    <li class="email"><span class="iconfont icon-email"></span>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
@@ -26,7 +26,7 @@
     {% endif %}
 
     {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
+    <li class="github"><span class="iconfont icon-github"></span>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
     </li>
     {% endif %}
