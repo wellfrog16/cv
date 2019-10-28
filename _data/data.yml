@@ -116,7 +116,7 @@ experiences:
 projects:
     title: 项目
     intro: >
-      这里列出一些比较有代表性的或者有些技术特色的项目
+      这里列出一些比较有代表性的或者有些技术特色的项目，列表部分为技术亮点
 
     assignments:
       - title: GAIAA网站移动端 & 管理后台
@@ -167,7 +167,7 @@ projects:
             - 前端localStorage带有效期加密存储
 
       - title: 上交所应用开发
-        link: 24周
+        cycle: 24周
         tagline: |
           todo
 
