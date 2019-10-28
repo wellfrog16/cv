@@ -13,11 +13,18 @@
       "unicode_decimal": 59161
     },
     {
-      "icon_id": "348244",
+      "icon_id": "318411",
       "name": "archive",
       "font_class": "archive",
-      "unicode": "e9d6",
-      "unicode_decimal": 59862
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "348904",
+      "name": "wrench",
+      "font_class": "wrench",
+      "unicode": "ec68",
+      "unicode_decimal": 60520
     },
     {
       "icon_id": "490347",
@@ -25,13 +32,6 @@
       "font_class": "mail",
       "unicode": "ec34",
       "unicode_decimal": 60468
-    },
-    {
-      "icon_id": "545055",
-      "name": "wrench",
-      "font_class": "wrench",
-      "unicode": "e956",
-      "unicode_decimal": 59734
     },
     {
       "icon_id": "925312",
