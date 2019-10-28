@@ -166,6 +166,21 @@ p {
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
+
+        .custom-icon {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border-radius: 30px;
+            background-color: darken($theme-color, 15%);
+            position: relative;
+            top: -0.2em;
+
+            i {
+                color: #fff;
+            }
+        }
+
         .fa-stack {
             top: -0.2em;
         }
