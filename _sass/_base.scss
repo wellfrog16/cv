@@ -168,7 +168,9 @@ p {
         margin-bottom: 20px;
 
         .custom-icon {
-            display: inline-block;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             width: 30px;
             height: 30px;
             border-radius: 30px;
@@ -178,6 +180,7 @@ p {
 
             i {
                 color: #fff;
+                font-size: 17px;
             }
         }
 
