@@ -2,7 +2,8 @@
 
 # Site Settings
 title: 龚鹏仡的简历
-url: 'https://wellfrog16.github.io/cv/'
+# url: 'https://wellfrog16.github.io/cv/'
+url: 'http://cv.dreamersky.com/'
 baseurl: '' #change it according to your repository name
 description: 一份在线个人简历
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
