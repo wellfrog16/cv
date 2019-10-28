@@ -116,26 +116,32 @@ experiences:
 projects:
     title: 项目
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      这里仅列出一些比较有代表性的或者有些技术特色的项目
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        cycle: 2个月
+      - title: GAIAA网站移动端 & 管理后台
+        cycle: 2周
+        link: https://thegaiaa.org/m/
         tagline: |
-          测一下
+          GAIAA公司官网移动端，由于客户需求变动增加移动端。
+          在不能重构的情况下，单独开发一个移动端版本，用js判断使用者的设备在web和移动端之间自动跳转。
+          此外开发一个管理后台用于新闻发布，和logo上传
 
-            - heheh
-            - 你好
+            - vant移动端组件应用
+            - i18n中英文版
+            - 开发一个图片上传裁剪的组件，帮助用户上传指定大小的图片
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: 商汤互娱游戏管理后台
+        cycle: 4周
+        tagline: |
+          商汤小程序游戏的后台管理页面，包含虚拟留影，地图打卡，酒店打卡三个游戏。
+          后台实现素材管理，游戏配置，数据统计，参与人员管理，系统日志等功能
 
-      - title: Tempo
-        link: "#"
+            - 在游戏底图中配置素材icon，并拖动icon来配置地图信息
+            - 步骤式表单处理游戏配置以增强操作体验
+
+      - title: 科特派茶园病虫害监控
+        cycle: 1周
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
