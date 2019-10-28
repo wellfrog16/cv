@@ -95,6 +95,10 @@ p {
     }
     .container-block {
         padding: 30px;
+
+        ul {
+            list-style: none;
+        }
     }
     .container-block-title {
         text-transform: uppercase;
