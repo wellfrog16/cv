@@ -175,26 +175,32 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能熟练度
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Html5 & Css3(Less)
+        level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Vue
+        level: 90%
+
+      - name: SqlServer & MySql & Nedb
+        level: 70%
+
+      - name: Git & Github
         level: 60%
 
+      - name: Nodejs & Eggjs
+        level: 50%
+
+      - name: React & Typescript
+        level: 35%
+
+      - name: Photoshop
+        level: 35%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    by wellfrog
