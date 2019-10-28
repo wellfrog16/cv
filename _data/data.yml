@@ -116,7 +116,7 @@ experiences:
 projects:
     title: 项目
     intro: >
-      这里仅列出一些比较有代表性的或者有些技术特色的项目
+      这里列出一些比较有代表性的或者有些技术特色的项目
 
     assignments:
       - title: GAIAA网站移动端 & 管理后台
@@ -139,14 +139,33 @@ projects:
 
             - 在游戏底图中配置素材icon，并拖动icon来配置地图信息
             - 步骤式表单处理游戏配置以增强操作体验
+            - 通过百度地图开源api，实现地图选点（经纬度）
 
       - title: 科特派茶园病虫害监控
         cycle: 1周
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+          一个紧急的项目，通过不同时间点的卫星瓦片图，展示茶园的面积变化和病虫害情况。
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+            - 使用leaflet结合后端提供的瓦片图数据展示页面
+
+      - title: paradise智慧酒店后台管理
+        cycle: 10周 
+        tagline: |
+          酒店监控项目，通过配置摄像头，设定通行权限。来监控进入酒店的人员属性（贵宾、陌生人、员工等），
+          移动轨迹。并对指定的人员产生告警。同时系统还支持酒店入住办理。
+
+          系统包括了布控管理、通行管理，设备管理，人员管理，客房管理，工作台，权限管理等
+
+          我负责前端系统架构，底层模块和组件的开发，以及部分业务组件。并把控项目进度
+
+            - 开发一个调用摄像头拍照/直接上传图片的vue组件，用于人员头像录入
+            - 身份验证使用oauth2，前端实现access_token调用，并在access_token过期时，自动使用refresh_token静默刷新
+            - 在网络不好时，axios请求失败自动重试请求
+            - websocket 实时人员数据
+            - zrender 轨迹绘制（一个封装了zrender的内部用组件）
+            - 数据的滚动加载
+            - element-ui 样式无污染覆盖开发（约定式）
+            - 前端localStorage带有效期加密存储
 
       - title: Delta
         link: "#"
