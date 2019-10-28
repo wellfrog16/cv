@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: 11734308@qq.com
-    phone: 012 345 6789
-    website: http:// #do not add http://
+    phone:
+    website:
     linkedin:
     github: wellfrog16
     gitlab:
@@ -28,7 +28,7 @@ sidebar:
       - idiom: 中文
         level: 熟练
 
-      - idiom: English
+      - idiom: 英语
         level: 一般(有道XD)
 
     interests:
@@ -42,47 +42,21 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: 职业生涯
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      15年开发经验，后端有过7年的C#.net开发经验。目前主要做前端开发，偏web端，以及带新人，项目把控。
+      后续会研究小程序，前端动画，游戏等。欢迎电话沟通。一个对工作，生活充满热情的人。
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: 计算机及其应用
+      university: 上海民远职业技术学院
+      time: 2001年9月 - 2004年7月
+      details:
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 前端组组长
+      time: 2019.5 - 至今
+      company: 上海熵趣
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,9 +71,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: 应用组组长/高级前端
+      time: 2018.9 - 2019.4
+      company: 中软国际
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +84,22 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: 前端 & 架构
+      time: 2016.9 - 2018.9
+      company: 上海创睦互动科技有限公司
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: 系统架构 & 程序开发
+      time: 2009.12 - 2016.8
+      company: 上海雅仕维广告有限公司
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -178,10 +165,10 @@ skills:
       - name: Javascript & jQuery
         level: 95%
 
-      - name: Html5 & Css3(Less)
+      - name: Vue
         level: 95%
 
-      - name: Vue
+      - name: HTML5 & CSS3(Less)
         level: 90%
 
       - name: SqlServer & MySql
