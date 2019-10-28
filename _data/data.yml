@@ -123,6 +123,7 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
+        cycle: 2个月
         tagline: |
           测一下
 
