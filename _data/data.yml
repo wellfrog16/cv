@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: 龚鹏仡
     tagline: 前端开发
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 11734308@qq.com
@@ -46,7 +46,7 @@ career-profile:
     summary: |
       15年开发经验，后端有过7年的C#.net开发经验。
       
-      目前主要做前端开发，偏web端，以及带新人，项目开发进度把控。
+      目前主要从事前端开发，偏web端，以及带新人，项目开发进度把控。
 
       以后会继续研究小程序，前端动画，游戏等。
       
