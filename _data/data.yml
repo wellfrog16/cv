@@ -143,7 +143,7 @@ projects:
     assignments:
       - title: GAIAA网站移动端 & 管理后台(熵趣)
         cycle: 2周
-        link: https://thegaiaa.org/m/
+        # link: https://thegaiaa.org/m/
         tagline: |
           GAIAA公司官网移动端，由于客户需求变动增加移动端。
           在不能重构的情况下，单独开发一个移动端版本，用js判断使用者的设备在web和移动端之间自动跳转。
