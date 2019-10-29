@@ -11,7 +11,7 @@
 
   {% if projects.intro %}
   <div class="intro">
-      <p>{{ projects.intro }}</p>
+      <p>{{ projects.intro | markdownify }}</p>
   </div><!--//intro-->
   {% endif %}
 
