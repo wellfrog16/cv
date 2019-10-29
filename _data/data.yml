@@ -78,14 +78,15 @@ experiences:
       time: 2018.9 - 2019.4
       company: 中软国际
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        中软外包给上交所驻场。应用组组长，团队维持在6-7人。工作是门户网站、业务线应用的维护与开发。
+        最后是项目释放而离职。
 
-          - Bullet point
-          - Bullet point
+          - 与甲方沟通需求
+          - 团队内协调前后端开发联调
+          - 控制项目进度
+          - 前端开发规范
+          - 门户网站的维护与开发
+          - 新应用的架构与开发
 
     - role: 前端 & 架构
       time: 2016.9 - 2018.9
@@ -117,8 +118,8 @@ projects:
     title: 项目
     intro: >
       这里列出一些比较有代表性的或者有些技术特色的项目，
-      
-      
+
+
       按时间顺序，从近到远，列表部分为技术亮点
 
     assignments:
@@ -133,6 +134,7 @@ projects:
             - vant移动端组件应用
             - i18n中英文版
             - 开发一个图片上传裁剪的组件，帮助用户上传指定大小的图片
+            - rem自适应
 
       - title: 商汤互娱游戏管理后台
         cycle: 4周
