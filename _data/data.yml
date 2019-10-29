@@ -61,18 +61,15 @@ experiences:
       time: 2019.5 - 至今
       company: 上海熵趣
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        商汤科技的驻场外包，前端组组长，前端团队人数维持在5-6人。工作外包项目的架构与开发
 
-          - Bullet point
-          - Bullet point
+          - 与甲方沟通确认需求
+          - 培养新人
+          - 控制项目进度
+          - 前端系统架构
+          - 前端框架的迭代与完善
+          - 制定前端开发规范
+          - 公共组件开发
 
     - role: 应用组组长/高级前端
       time: 2018.9 - 2019.4
@@ -81,11 +78,11 @@ experiences:
         中软外包给上交所驻场。应用组组长，团队维持在6-7人。工作是门户网站、业务线应用的维护与开发。
         最后因为项目释放而离职。
 
-          - 与甲方沟通需求
+          - 与甲方沟通确认需求
           - 团队内协调前后端开发联调
           - 培养新人
           - 控制项目进度
-          - 前端开发规范
+          - 制定前端开发规范
           - 门户网站的维护与开发
           - 新应用的架构与开发
 
@@ -97,7 +94,7 @@ experiences:
         项目以H5项目为主，辅以的网站项目，开发基本上是自己单打独斗，后期有培养过新人。
         是佳能mini site的供应商之一。
 
-          - 与甲方沟通需求
+          - 与甲方沟通确认需求
           - 培养新人
           - 控制项目进度
           - 开发自用基于swiper的h5框架，构建工具gulp相关
@@ -134,13 +131,13 @@ experiences:
 projects:
     title: 项目经历
     intro: |
-      这里列出一些比较有代表性的或者有些技术特色的项目，
+      这里列出一些比较有代表性的或者有些技术特色的项目，主要技术栈是Vue，以及业务相关技术。
 
 
       按时间顺序，从近到远，列表部分为技术亮点
 
     assignments:
-      - title: GAIAA网站移动端 & 管理后台
+      - title: GAIAA网站移动端 & 管理后台(熵趣)
         cycle: 2周
         link: https://thegaiaa.org/m/
         tagline: |
@@ -153,7 +150,7 @@ projects:
             - 开发一个图片上传裁剪的组件，帮助用户上传指定大小的图片
             - rem自适应
 
-      - title: 商汤互娱游戏管理后台
+      - title: 商汤互娱游戏管理后台(熵趣)
         cycle: 4周
         tagline: |
           商汤小程序游戏的后台管理页面，包含虚拟留影，地图打卡，酒店打卡三个游戏。
@@ -163,7 +160,7 @@ projects:
             - 步骤式表单处理游戏配置以增强操作体验
             - 通过百度地图开源api，实现地图选点（经纬度）
 
-      - title: 科特派茶园病虫害监控
+      - title: 科特派茶园病虫害监控(熵趣)
         cycle: 1周
         tagline: |
           一个紧急的项目，通过不同时间点的卫星瓦片图，展示茶园的面积变化和病虫害情况。
@@ -171,7 +168,7 @@ projects:
             - 使用leaflet结合后端提供的瓦片图数据展示页面
             - echarts面积折线图
 
-      - title: paradise智慧酒店后台管理
+      - title: paradise智慧酒店后台管理(熵趣)
         cycle: 10周 
         tagline: |
           酒店监控项目，两人合作，期间我负责前端系统架构，底层模块和组件的开发，以及部分业务组件。并把控项目进度。
@@ -189,7 +186,7 @@ projects:
             - element-ui 样式无污染覆盖开发（约定式）
             - 前端localStorage带有效期加密存储
 
-      - title: 上交所应用开发
+      - title: 上交所应用开发(中软)
         cycle: 24周
         tagline: |
           一个长期开发的项目，接手时已经开发了近百个应用。
@@ -209,7 +206,7 @@ projects:
             - 利用nodejs自动生成业务代码模板（利用commander工具开发）
             - 搭建mockjs方便自测
 
-      - title: 上交所门户维护
+      - title: 上交所门户维护(中软)
         cycle: 24周 
         tagline: |
           一个长期维护的项目，接手时是个半成品，之后对内容不断更新维护，并增加了SQL查询器、数据模型管理、权限申请功能模块
@@ -218,6 +215,10 @@ projects:
           - SQL查询器查询历史纪录
           - SQL语句模块功能（支持变量），正则实现
           - SQL模板语句分享功能
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
       - title: Delta
         link: "#"
