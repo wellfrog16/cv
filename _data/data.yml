@@ -79,10 +79,11 @@ experiences:
       company: 中软国际
       details: |
         中软外包给上交所驻场。应用组组长，团队维持在6-7人。工作是门户网站、业务线应用的维护与开发。
-        最后是项目释放而离职。
+        最后因为项目释放而离职。
 
           - 与甲方沟通需求
           - 团队内协调前后端开发联调
+          - 培养新人
           - 控制项目进度
           - 前端开发规范
           - 门户网站的维护与开发
@@ -92,14 +93,15 @@ experiences:
       time: 2016.9 - 2018.9
       company: 上海创睦互动科技有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        和朋友创业的公司，主要工作是和客户确认需求，确认开发可行性，开发项目。
+        项目以H5项目为主，辅以的网站项目，开发基本上是自己单打独斗，后期有培养过新人。
+        是佳能mini site的供应商之一。
 
-          - Bullet point
-          - Bullet point
+          - 与甲方沟通需求
+          - 培养过新人
+          - 开发自用基于swiper的h5框架，构建工具gulp相关
+          - 开发h5以及网站项目
+          - 近20个开发项目
 
     - role: 系统架构 & 程序开发
       time: 2009.12 - 2016.8
@@ -115,8 +117,8 @@ experiences:
           - Bullet point
 
 projects:
-    title: 项目
-    intro: >
+    title: 项目经历
+    intro: |
       这里列出一些比较有代表性的或者有些技术特色的项目，
 
 
