@@ -107,7 +107,6 @@ experiences:
       details: |
         一家做户外、地铁、机场、高速的广告公司，工作是开发集团自用的内部系统，以及用程序减少财务部门的工作量。
         这里是我主要做后端的公司，主要是C#.net + Sqlserver。
-        功能模块包括权限系统、附件管理，人员管理、合同管理、流程管理、收付款管理、催收系统、客户管理、考勤系统、上下画管理等。
         整个项目我负责大约6成左右的业务开发，包括底层系统，以及所有的数据库开发设计（模型、存储过程、触发器等）。
         其他3成由其他团队人员开发。
 
@@ -216,13 +215,40 @@ projects:
           - SQL语句模块功能（支持变量），正则实现
           - SQL模板语句分享功能
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 佳能mini site供应商(创睦互动)
+        cycle: 2年
+        tagline: |
+          项目很多，以H5为主，网站为辅，为产品宣传单页，综合入口页，节日活动页等近20个项目。
+          展示用页面配合动画、音乐、游戏多元素表现。其间踩坑填坑无数。
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+            - 微信下ios/android容性（视频、音频为主）
+            - swiper和animate.css动画应用
+            - 利用css3动画增强页面
+            - 微信分享功能配置
+            - 逐帧动画达到更换的兼容效果
+            - hammerjs解决手势操作
+            - rem页面自适应
+            - bootstrap响样式开发
+            - 图片的lazyload
+            - 资源预加载
+
+      - title: 延中汽水(创睦互动)
+        cycle: 2周
+        tagline: |
+          延中咸宁汽水宣传H5，动画配合音效的宣传H5。利用科大讯飞文字转语音来实现转发朋友圈的传播效果。
+
+            - 科大讯飞文字转语音来表现H5
+
+      - title: 雅仕维自用系统
+        tagline: |
+          早前C#.net项目。用于处理公司的日常业务，并帮助提升财务工作效率，以及数据校验。
+          前期开发，后期维护迭代
+          功能模块包括权限系统、附件管理，人员管理、合同管理、流程管理、收付款管理、催收系统、客户管理、考勤系统、上下画管理等。
+
+            - SqlServer应用存储过程，触发器，计划任务等等
+            - 前端样式框架
+            - 类似防火墙规则的权限系统
+            - 系统用附件管理系统
 
 skills:
     title: 技能熟练度
