@@ -111,7 +111,8 @@ experiences:
         一家做户外、地铁、机场、高速的广告公司，工作是开发集团自用的内部系统，以及用程序减少财务部门的工作量。
         这里是我主要做后端的公司，主要是C#.net + Sqlserver。
         功能模块包括权限系统、附件管理，人员管理、合同管理、流程管理、收付款管理、催收系统、客户管理、考勤系统、上下画管理等。
-        整个项目我负责大约7成左右的开发，包括底层系统。其他3成由其他团队人员开发。
+        整个项目我负责大约6成左右的业务开发，包括底层系统，以及所有的数据库开发设计（模型、存储过程、触发器等）。
+        其他3成由其他团队人员开发。
 
           - 控制项目进度
           - 项目架构
@@ -121,17 +122,14 @@ experiences:
           - 数据迁移（从早期的系统）
 
     - role: 程序开发
-      time: 2009.12 - 2009.11
+      time: 2005.7 - 2009.11
       company: 上海名归数码广告有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        刚毕业那会，有实习有试用，大概那么3-4家公司。工作有开发，销售，工程布线，展会，保险等。
+        主要是在名归数码的一家公司做程序开发，语言是asp，项目以网站为主，另外还开发一个公司的英文餐饮网站
 
-          - Bullet point
-          - Bullet point
+          - 一些不同行业工作经历
+          - 懵懵懂懂
 
 projects:
     title: 项目经历
