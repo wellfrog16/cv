@@ -3,61 +3,89 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 龚鹏仡
-    tagline: 前端开发
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 11734308@qq.com
-    phone:
-    website:
-    linkedin:
-    github: wellfrog16
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
     gitlab:
     bitbucket:
-    twitter:
+    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: 中文
-        level: 熟练
+      - idiom: English
+        level: Native
 
-      - idiom: 英语
-        level: 一般(有道XD)
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: 电影
+      - item: Climbing
         link:
 
-      - item: 看书
+      - item: Snowboarding
         link:
 
-      - item: 游戏
+      - item: Cooking
         link:
 
 career-profile:
-    title: 职业生涯
+    title: Career Profile
     summary: |
-      15年开发经验，后端有过7年的C#.net开发经验。目前主要做前端开发，偏web端，以及带新人，项目把控。
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
 
-      后续会研究小程序，前端动画，游戏等。欢迎电话沟通。一个对工作，生活充满热情的人。
+      Second paragraph if required.
 
 education:
-    - degree: 计算机及其应用
-      university: 上海民远职业技术学院
-      time: 2001年9月 - 2004年7月
-      details:
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 experiences:
-    - role: 前端组组长
-      time: 2019.5 - 至今
-      company: 上海熵趣
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -72,9 +100,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: 应用组组长/高级前端
-      time: 2018.9 - 2019.4
-      company: 中软国际
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -85,22 +113,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: 前端 & 架构
-      time: 2016.9 - 2018.9
-      company: 上海创睦互动科技有限公司
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - role: 系统架构 & 程序开发
-      time: 2009.12 - 2016.8
-      company: 上海雅仕维广告有限公司
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,7 +127,7 @@ experiences:
           - Bullet point
 
 projects:
-    title: 项目
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -121,11 +136,7 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: |
-          测一下
-
-            - heheh
-            - 你好
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
@@ -143,36 +154,47 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 skills:
-    title: 技能熟练度
+    title: Skills &amp; Proficiency
 
     toolset:
+      - name: Python & Django
+        level: 98%
+
       - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Vue
-        level: 95%
+      - name: Ruby on Rails
+        level: 85%
 
-      - name: HTML5 & CSS3(Less)
-        level: 90%
-
-      - name: SqlServer & MySql
-        level: 70%
-
-      - name: Nedb
-        level: 70%
-
-      - name: Git & Github
+      - name: Sketch & Photoshop
         level: 60%
 
-      - name: Nodejs & Eggjs
-        level: 50%
-
-      - name: React & Typescript
-        level: 35%
-
-      - name: Photoshop
-        level: 35%
-
 footer: >
-    by wellfrog
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
