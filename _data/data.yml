@@ -140,9 +140,8 @@ projects:
 
       按时间顺序，从近到远，列表部分为技术亮点
 
-      <a>asadasd</a>
-
-      [asdasd](http://aaa.com)
+      此外，自己整理了一套后端框架模板
+      [后台管理框架](https://wellfrog16.github.io/template-vue-admin)
 
     assignments:
       - title: GAIAA网站移动端 & 管理后台(熵趣)
