@@ -281,6 +281,9 @@ skills:
       - name: Git & Github
         level: 60%
 
+      - name: Webpack & Gulp
+        level: 60%
+
       - name: Nodejs & Eggjs
         level: 50%
 
