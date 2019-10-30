@@ -46,7 +46,7 @@ career-profile:
     summary: |
       15年开发经验，早年做过7年的C#.net开发。
       
-      目前主要从事前端开发，偏web端，培养新人，开发进度把控。
+      目前主要从事前端开发，偏PC端，培养新人，开发进度把控。
 
       以后会继续研究小程序，前端动画，前端游戏等。
       
@@ -141,7 +141,7 @@ projects:
       按时间顺序，从近到远，列表部分为技术亮点
 
       此外，自己整理了一套后端框架模板
-      [后台管理框架](https://wellfrog16.github.io/template-vue-admin)
+      [PC端后台管理框架](https://wellfrog16.github.io/template-vue-admin)
 
     assignments:
       - title: GAIAA网站移动端 & 管理后台(熵趣)
