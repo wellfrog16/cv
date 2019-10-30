@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "name": "",
+  "id": "1480930",
+  "name": "cv",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
   "description": "",
@@ -39,6 +39,13 @@
       "font_class": "user",
       "unicode": "e602",
       "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1138740",
+      "name": "tel",
+      "font_class": "tel",
+      "unicode": "e642",
+      "unicode_decimal": 58946
     },
     {
       "icon_id": "5634687",
