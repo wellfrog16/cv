@@ -263,13 +263,13 @@ skills:
     title: 技能熟练度
 
     toolset:
-      - name: Javascript & jQuery
+      - name: HTML & CSS(Less)
         level: 95%
 
       - name: Vue
         level: 95%
 
-      - name: HTML5 & CSS3(Less)
+      - name: Javascript & jQuery
         level: 90%
 
       - name: SqlServer & MySql
@@ -285,6 +285,9 @@ skills:
         level: 50%
 
       - name: React & Typescript
+        level: 35%
+
+      - name: 小程序
         level: 35%
 
       - name: Photoshop
