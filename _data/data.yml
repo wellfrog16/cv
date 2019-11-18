@@ -187,6 +187,9 @@ projects:
             - 开发一个调用摄像头拍照/直接上传图片的vue组件，用于人员头像录入
             - 身份验证使用oauth2，前端实现access_token调用，并在access_token过期时，自动使用refresh_token静默刷新
             - 在网络不好时，axios请求失败自动重试请求
+            - 请求错误的全局处理
+            - 公共的前端数据校验
+            - iconfont单色多色icon应用
             - websocket 实时人员数据
             - zrender 轨迹绘制（一个封装了zrender的内部用组件）
             - 数据的滚动加载
