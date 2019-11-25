@@ -44,9 +44,9 @@ sidebar:
 career-profile:
     title: 职业生涯
     summary: |
-      15年开发经验，早年做过7年的C#.net开发。
+      15年前端开发经验，其中包括早年7年的后端经验（C#.net）。
       
-      目前主要从事前端开发，培养新人，开发进度把控。
+      目前主要从事前端开发，培养新人，开发进度把控。偶尔涉及后端(nodejs、eggjs)。
 
       以后会继续研究小程序，前端动画，前端游戏等。
       
@@ -189,6 +189,9 @@ projects:
             - 开发一个调用摄像头拍照/直接上传图片的vue组件，用于人员头像录入
             - 身份验证使用oauth2，前端实现access_token调用，并在access_token过期时，自动使用refresh_token静默刷新
             - 在网络不好时，axios请求失败自动重试请求
+            - 请求错误的全局处理
+            - 公共的前端数据校验
+            - iconfont单色多色icon应用
             - websocket 实时人员数据
             - zrender 轨迹绘制（一个封装了zrender的内部用组件）
             - 数据的滚动加载
