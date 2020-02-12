@@ -146,6 +146,19 @@ projects:
       <a href="https://wellfrog16.github.io/template-vue-admin" target="_blank">PC端后台管理框架</a>
 
     assignments:
+      - title: 云南微笑大理小程序
+        cycle: 4周
+        tagline: |
+          云南大理一个活动小程序，主要包含地图打卡，照片合成，投票三个功能。并带有个人中心，实现奖品，分享等功能。
+
+            - uni-app cli模式开发
+            - 个人信息、电话等授权信息获取
+            - 自定义nav-bar
+            - 地图打卡，地理位置授权坐标匹配
+            - 利用canvas合成图片并分享
+            - 授权信息使用微信缓存减少请求
+            - 二维码跳小程序授权
+
       - title: GAIAA网站移动端 & 管理后台(熵趣)
         cycle: 2周
         # link: https://thegaiaa.org/m/
@@ -292,10 +305,10 @@ skills:
       - name: Nodejs & Eggjs
         level: 50%
 
-      - name: React & Typescript
-        level: 35%
-
       - name: 小程序
+        level: 60%
+
+      - name: React & Typescript
         level: 35%
 
       - name: Photoshop
