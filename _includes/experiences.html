@@ -2,13 +2,14 @@
 {% if experiences %}
 <section class="section experiences-section">
   <h2 class="section-title">
-    <span class="custom-icon">
-      <i class="iconfont icon-briefcase"></i>
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    工作经历
+    {{ experiences.title }}
   </h2>
 
-  {% for experience in experiences %}
+  {% for experience in experiences.info %}
   <div class="item">
 
     <div class="meta">
